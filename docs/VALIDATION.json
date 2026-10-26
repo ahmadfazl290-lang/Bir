@@ -1,0 +1,35 @@
+{
+  "bundled_decks": 0,
+  "bundled_cards": 0,
+  "bundled_study_images": 0,
+  "portable_tests": {
+    "passed": true,
+    "tests": 157,
+    "pass": 157,
+    "fail": 0,
+    "skipped": 0,
+    "todo": 0,
+    "node": "v24.19.0",
+    "files": [
+      "tests/core.test.cjs",
+      "tests/text-import.test.cjs",
+      "tests/import-cards.test.cjs",
+      "tests/deck-actions.test.cjs",
+      "tests/speech.test.cjs",
+      "tests/integration.test.cjs"
+    ],
+    "browserTested": false,
+    "actualAudioDeviceTested": false,
+    "timestamp": "2026-10-26T12:26:35.748Z"
+  },
+  "browser_checks": {
+    "blank_landing": true,
+    "import_dialog": true,
+    "manual_deck_and_card_creation": true,
+    "reload_persistence": true,
+    "full_file_import_ui_retested": false
+  },
+  "local_media_helper_empty_folder": true,
+  "apkg_runtime_retested": false,
+  "audible_speech_retested": false
+}

@@ -1,0 +1,174 @@
+{
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 331,
+      "sha256": "9d75f89b4d4ca75895f5201675368e1b7f2ce20b1f6d4427387b8487666f3407"
+    },
+    {
+      "path": ".github/workflows/checks.yml",
+      "bytes": 505,
+      "sha256": "789f6f168c1f88afa1037cdd017fb69e813a931777d35a17bd14c5c99f9351e2"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 611,
+      "sha256": "ebc727468ea6a9de3bf0c99623c1fab35bda1aaea6cf83411571b1139725f241"
+    },
+    {
+      "path": "app.js",
+      "bytes": 37624,
+      "sha256": "7007b699cac2ee0e5bcde720496c95bd6fede2c1c46549fbcf59bae1ddf40d40"
+    },
+    {
+      "path": "core.js",
+      "bytes": 4827,
+      "sha256": "f9b633bf055ae7a73d80742e5d695fdcb5ddf6c79056bcd5c26f066ca97064e2"
+    },
+    {
+      "path": "deck-actions.js",
+      "bytes": 11824,
+      "sha256": "6267951cec2af877162cf10f05d00becb8242fecf462542be9ad51d71f6bcf53"
+    },
+    {
+      "path": "deck-data.js",
+      "bytes": 50,
+      "sha256": "b963b0e381a3d2d79ccd41c64e3b8595c2eb3a0d4c938cd98d4035b447038de1"
+    },
+    {
+      "path": "docs/UPLOAD_TO_GITHUB_SORANI.md",
+      "bytes": 2426,
+      "sha256": "50deb1dae1dfc0db418566a3ac379e06108c0c48cb44312ebf8d601a2b452c25"
+    },
+    {
+      "path": "docs/VALIDATION.json",
+      "bytes": 913,
+      "sha256": "352f03ffae6572becf14f4ce20c65f0f6cf034b4293a3501287e1cee988bbdc2"
+    },
+    {
+      "path": "icon.svg",
+      "bytes": 370,
+      "sha256": "4cc60f5aedecae9dd58594b744b5d775384273fc80abf56d63f3dc67f6362ae3"
+    },
+    {
+      "path": "import-cards.js",
+      "bytes": 3323,
+      "sha256": "59cb153a492ee61db6a4e8fc2ce3f25f720678c3a44f1bf53b59886d77426462"
+    },
+    {
+      "path": "import-locales.js",
+      "bytes": 14613,
+      "sha256": "e3a8fa5ded4b32f7ca3015bb64dce220a38434edac185916d789c3e242c8707c"
+    },
+    {
+      "path": "import-ui.js",
+      "bytes": 13644,
+      "sha256": "9457f4967c9bd685def9a664aa3dd260b5ce3d5f1123f872f40883821bf3d5fc"
+    },
+    {
+      "path": "index.html",
+      "bytes": 876,
+      "sha256": "13c2f9dae46a7fe4bd2fd9612bcdec48fcbe0464f363599de96fccb758ee159e"
+    },
+    {
+      "path": "locales.js",
+      "bytes": 27973,
+      "sha256": "1d53dc0170b78240b166cd52db4f9b6685193d67da28278280c34fdcdc2def62"
+    },
+    {
+      "path": "media/.gitkeep",
+      "bytes": 2,
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+    },
+    {
+      "path": "NATIVE_PLAN.txt",
+      "bytes": 10598,
+      "sha256": "7cbfe959d2a7ed316758d1bba2a849cb059cac45a847e166211cee2506b997c4"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1025,
+      "sha256": "63bcf38f16846b865909b6f366127f1a4978d5921be926af2664887591e1c3ae"
+    },
+    {
+      "path": "package.json",
+      "bytes": 307,
+      "sha256": "5b77a6102164b83d6309eb04992bb8b8bed23d0c905d934fdafb41461459af5d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4443,
+      "sha256": "7d46c25b0cfb25c19daea39b79a60c00822247f6c753173283ff13f6768064d5"
+    },
+    {
+      "path": "README.txt",
+      "bytes": 2818,
+      "sha256": "86b4ad897067b22ea10f11ac82dadfabd6012dec742c73df0e208739ed3abf9c"
+    },
+    {
+      "path": "server/apkg_extract.py",
+      "bytes": 12700,
+      "sha256": "84edcb32d83719499d6bb09996cb8c8f9d5983bb4b2b9daeb9c1e4b1c8594913"
+    },
+    {
+      "path": "server/run_apkg_extract.ps1",
+      "bytes": 2758,
+      "sha256": "cbcb992141edff9abffae98e7aaafbccf09d81c0683ef4b6aed27ef38e5d59d7"
+    },
+    {
+      "path": "server.py",
+      "bytes": 8417,
+      "sha256": "1f3aca28171de1310cbe54ce21952a6a8e1649cf647d1ef50654cd3a8e4c3387"
+    },
+    {
+      "path": "speech.js",
+      "bytes": 11391,
+      "sha256": "4e15e9628f81f23c0714cbf3ad43274ca8d47451811f23876253a5bd431af451"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 19265,
+      "sha256": "67f49df72bcbcd1329f48e3a28e985603dd37aedd43b5bf3c6788a2673248236"
+    },
+    {
+      "path": "tests/core.test.cjs",
+      "bytes": 8863,
+      "sha256": "00eb6f0794c094e40d3e224b0d8efe7aa6ac467d4716b33048d98da0da76ad17"
+    },
+    {
+      "path": "tests/deck-actions.test.cjs",
+      "bytes": 12821,
+      "sha256": "cbb211ca7bbd742e2fda1ecf6ce0bed3c4f8d9b32bcca45281916c083e067ea6"
+    },
+    {
+      "path": "tests/import-cards.test.cjs",
+      "bytes": 11961,
+      "sha256": "c50a5e94c6b960f0c561a1ca93856b865cdcf2049e1ec5d7f3c0c532a5c5b5cf"
+    },
+    {
+      "path": "tests/integration.test.cjs",
+      "bytes": 5549,
+      "sha256": "6cf9e0820529d35a5951c3d3ad5640fd174a840d8fe7f67a2bdff7eb3e08f9f8"
+    },
+    {
+      "path": "tests/run-tests.mjs",
+      "bytes": 1646,
+      "sha256": "800e48c543a02cbe603d4838ac158dc17638be4919e2ede0f29ebdcd790a9537"
+    },
+    {
+      "path": "tests/speech.test.cjs",
+      "bytes": 11724,
+      "sha256": "e14c3fa7802b2350483c7d561c91abe6226266b4b7bcf4019b19df478b646699"
+    },
+    {
+      "path": "tests/text-import.test.cjs",
+      "bytes": 7074,
+      "sha256": "ca6bec454b09707f043ac90937793c50cb9acef7cb1de5098008ce05f7e0b673"
+    },
+    {
+      "path": "text-import.js",
+      "bytes": 11707,
+      "sha256": "9edf98c855c2d9fda9d3f141e0d1b81219a937593f540a23404fd735d3f365ec"
+    }
+  ]
+}
